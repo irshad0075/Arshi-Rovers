@@ -1,8 +1,7 @@
 # Final Mern Stack React Project 
   
  # API-REFERENCES 
- ![API repo link](https://github.com/FatymaFerdous/CarAPI-Express) 
-  
+
  ## USER 
   
  #### LOGIN 
@@ -354,7 +353,7 @@ Our POS MERN Stack Project provides businesses with a powerful tool for managing
 
 ### Technologies Used
 
-- **Frontend:** React, Redux 
+- **Frontend:** React 
 - **Backend:** Express.js, Node.js 
 - **Database:** MongoDB 
 
