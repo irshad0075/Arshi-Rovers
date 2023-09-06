@@ -1,6 +1,18 @@
-# Final Mern Stack React Project 
+# Arshi Rovers 
+Arshi Rovers Car Selling Website is a premier platform for buying and selling cars. It provides a seamless and secure experience for users to explore, list, and purchase vehicles online.
+
+# Features and Capabilities
+### User Management:
+Register, login, and manage user profiles.
+### Category and Brand Handling:
+Organize car listings by category and brand.
+### Product Listings:
+List cars for sale, view product details and search for specific vehicles.
+### Order Processing:
+Add items to the shopping cart, proceed to checkout, and view order history.
+  # Getting Started
   
- # API-REFERENCES 
+ # API Access and Authentication
 
  ## USER 
   
